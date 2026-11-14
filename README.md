@@ -1,11 +1,10 @@
 # app-dev
 My first repository
-# app-dev
-My first repository
 
 ## My Favorite Movie: The Boss Baby
 
 **Genre:** Animation, Comedy
+
 **Year:** 2017
 
 ### Why I Like It
